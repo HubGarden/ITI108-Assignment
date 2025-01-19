@@ -1,0 +1,11 @@
+{
+   "Introduction": "Did the customer service agents greet the customer, introduce themselves by name before conversation with the customer? If they did, show the greeting and introduction sentences otherwise reply with No",
+   "Acquire Customer Information:": "Did the customer service agents acquire customer information before engage with customer? If they did, show the sentences otherwise reply with No",
+   "Politeness and Respect:": "Is the customer service agent polite and respectful when interacting withcustomers? If they did, show the sentences otherwise reply with No",
+   "Empathy and Understanding:": "Does the customer service agent understands request? If they did, show the sentences customer request and their request otherwise reply with No",
+   "Gratitude": "Did the customer service agent shows gratitude to the customer when the customer shows interest in the services/products mentioned? If they did, show the sentences otherwise reply with No",
+   "Provide Conclusion from the customer request:": "Did the customer service agent summarizes the customer request? If they did, show the summarize sentences otherwise reply with No",
+   "Clarifying Questions:": "Did the customer service agent clarifies when encounter situations where the customer did not share clear requirements, the customer service agent needs to take initiative to ask questions? If they did, show the sentences otherwise reply with No",
+   "Clarity of Language:": "Did customer service agent speaks clearly, concise and easy to understand? If they did, show the customer services agent sentences otherwise reply with No",
+   "Relevance of Information:": "Did customer service agent provides relevant information to the customer's request? If they did, show the replies from the customer service agent otherwise reply with No"
+}
