@@ -7,7 +7,8 @@
         "Step 1: Identify the first few sentences of the interaction.",
         "Step 2: Check if the agent introduces themselves and states the purpose of the conversation.",
         "Step 3: Verify if the introduction is clear and appropriate for the context."
-      ]
+      ],
+      "outcome": "suggest Pass, Fail or Not Applicable."
     },
     {
       "criterion": "Acquire Customer Information",
@@ -16,7 +17,8 @@
         "Step 1: Look for specific questions asked by the agent to gather customer details.",
         "Step 2: Evaluate whether the questions are relevant and sufficient to identify the customer's context.",
         "Step 3: Verify if the agent acknowledges or confirms the acquired information."
-      ]
+      ],
+      "outcome": "suggest Pass, Fail or Not Applicable."
     },
     {
       "criterion": "Politeness and Respect",
@@ -25,7 +27,8 @@
         "Step 1: Identify language or phrases used by the agent.",
         "Step 2: Check for signs of politeness, such as using 'please' and 'thank you.'",
         "Step 3: Look for signs of respect, such as avoiding interruptions or dismissive language."
-      ]
+      ],
+       "outcome": "suggest Pass, Fail or Not Applicable."
     },
     {
       "criterion": "Empathy and Understanding",
@@ -34,7 +37,8 @@
         "Step 1: Identify moments where the customer expresses concerns or emotions.",
         "Step 2: Check if the agent acknowledges the customer's feelings or situation.",
         "Step 3: Assess whether the agent responds in a way that shows understanding and offers a solution or comfort."
-      ]
+      ],
+       "outcome": "suggest Pass, Fail or Not Applicable."
     },
     {
       "criterion": "Gratitude",
@@ -43,7 +47,8 @@
         "Step 1: Identify moments where the customer expresses interest in the services/products.",
         "Step 2: Check if the agent acknowledges the interest and expresses gratitude.",
         "Step 3: Evaluate if the gratitude expressed is genuine and appropriate."
-      ]
+      ],
+       "outcome": "suggest Pass, Fail or Not Applicable."
     },
     {
       "criterion": "Provide Conclusion from the Customer Request",
@@ -52,7 +57,8 @@
         "Step 1: Identify if the agent summarizes the customer's request clearly.",
         "Step 2: Check if the summary reflects an understanding of the customer’s needs.",
         "Step 3: If the customer did not share clear requirements, check if the agent takes initiative to ask clarifying questions."
-      ]
+      ],
+       "outcome": "suggest Pass, Fail or Not Applicable."
     },
     {
       "criterion": "Clarity of Language",
@@ -61,7 +67,8 @@
         "Step 1: Identify the phrasing and vocabulary used by the agent.",
         "Step 2: Check if the language avoids unnecessary jargon or complexity.",
         "Step 3: Verify if the information is delivered in a straightforward and concise manner."
-      ]
+      ],
+       "outcome": "suggest Pass, Fail or Not Applicable."
     },
     {
       "criterion": "Relevance of Information",
@@ -70,7 +77,8 @@
         "Step 1: Identify the customer’s specific request or question.",
         "Step 2: Evaluate if the information provided by the agent directly addresses the request.",
         "Step 3: Check if the agent avoids providing unrelated or unnecessary details."
-      ]
+      ],
+       "outcome": "suggest Pass, Fail or Not Applicable."
     }
   ]
 }
